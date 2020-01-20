@@ -1,0 +1,22 @@
+body {
+    background-color: #2D2D2D;
+}
+
+h1 {
+    color: #C26356;
+    font-size: 30px;
+    font-family: Menlo, Monaco, fixed-width;
+}
+
+p,h3,div {
+    color: white;
+    font-family: "Source Code Pro", Menlo, Monaco, fixed-width;
+}
+#canvas{
+    width:600px;
+    padding:200px 20px;
+    text-align:center;
+    color: #C26356;
+    border:1px solid #333;
+    background-color: white;
+}
