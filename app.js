@@ -1,8 +1,8 @@
 new Vue({
     el:'#vue-app',
     data:{
-        name:'Helly',
-        greet:'Ohayu',
+        name:'Hello Mr./Mrs.',
+        greet:'How are You',
         website:'https://nikunj3011.github.io',
         websitetag:'<a href="https://nikunj3011.github.io">Me- blog</a>',
         age:10,
